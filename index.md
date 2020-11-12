@@ -18,3 +18,4 @@ The overall goal for our project is to create an interface which allows for stud
 
 ## Page Mockup
 <img src="doc/study-ext-mockup.jpg">
+Landing Page
