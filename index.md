@@ -26,6 +26,9 @@ The overall goal for our project is to create an interface which allows for stud
 #### Sign In Page
 <img src="doc/signInPage.png">
 
+#### User Home Page
+<img src="doc/userHomePage.png">
+
 #### Calender Page
 <img src="doc/calendarPage.png">
 
