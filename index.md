@@ -20,7 +20,7 @@ The overall goal for our project is to create an interface which allows for stud
 
 #### Landing Page
 
-#### Register Page
+#### Registration Page
 <img src="doc/registerPage.png">
 
 #### Sign In Page
