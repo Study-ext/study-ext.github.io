@@ -16,6 +16,25 @@ The overall goal for our project is to create an interface which allows for stud
 
 [Dino Mariano](https://d1lm.github.io/)
 
-## Page Mockup
-<img src="doc/study-ext-mockup.jpg">
+## Page Mockups
+
+### Landing Page
+
+### Register Page
+<img src="doc/registerPage.png">
+
+### Sign In Page
+<img src="doc/signInPage.png">
+
+### Calender Page
+<img src="doc/calendarPage.png">
+
+### Create Session Page
+<img src="doc/createSessionPage.png">
+
+### Leaderboard Page
+
+### Profile Page
+<img src="doc/profilePage.png">
+
 
