@@ -18,23 +18,23 @@ The overall goal for our project is to create an interface which allows for stud
 
 ## Page Mockups
 
-### Landing Page
+#### Landing Page
 
-### Register Page
+#### Register Page
 <img src="doc/registerPage.png">
 
-### Sign In Page
+#### Sign In Page
 <img src="doc/signInPage.png">
 
-### Calender Page
+#### Calender Page
 <img src="doc/calendarPage.png">
 
-### Create Session Page
+#### Create Session Page
 <img src="doc/createSessionPage.png">
 
-### Leaderboard Page
+#### Leaderboard Page
 
-### Profile Page
+#### Profile Page
 <img src="doc/profilePage.png">
 
 
