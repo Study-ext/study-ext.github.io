@@ -3,6 +3,8 @@
 * [Overview](#overview)
 * [Team Members](#team-members)
 * [Page Mockups](#page-mockups)
+* [Milestone 1](#milestone-1)
+* [Milestone 2](#milestone-2)
 
 ## Overview
 The overall goal for our project is to create an interface which allows for students and classmates to be able to create effective collaborative interactions where students can obtain help on current ICS materials or help others. Another goal is to create an environment that is inviting and effective for students who would instead be struggling on their own, so they can receive assistance from other like minded students who are able to help. 
@@ -47,5 +49,13 @@ Users are able to create a study session. Each session requires a name, subject,
 #### Profile Page
 Profile page displays information about yourself, included is a headshot, name, role, rank, class, and bio. The headshot is visible to others so it is easier to recognize who are attending study sessions. The other information is to help others get to know you. 
 <img src="doc/profilePage.png">
+
+## milestone-1
+Link to our Milestone 1 page found [here](https://github.com/Study-ext/study-ext/projects/1). 
+
+Our overall goals for milestone 1 was to create a rough outline of what we want our project to look like. We created mock up designs of each page within our site, including the landing, home, calendar, leaderboard, create a session, and profile page. Our main issue was designing a point system which we will use to rank our users. We have an idea on what we want, but it is subject to change later if we face problems. 
+
+## milestone-2
+Link to our Milestone 2 page found [here](https://github.com/Study-ext/study-ext/projects/3?add_cards_query=is%3Aopen). 
 
 
