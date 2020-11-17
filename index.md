@@ -50,12 +50,12 @@ Users are able to create a study session. Each session requires a name, subject,
 Profile page displays information about yourself, included is a headshot, name, role, rank, class, and bio. The headshot is visible to others so it is easier to recognize who are attending study sessions. The other information is to help others get to know you. 
 <img src="doc/profilePage.png">
 
-## milestone-1
+## Milestone-1
 Link to our Milestone 1 page found [here](https://github.com/Study-ext/study-ext/projects/1). 
 
 Our overall goals for milestone 1 was to create a rough outline of what we want our project to look like. We created mock up designs of each page within our site, including the landing, home, calendar, leaderboard, create a session, and profile page. Our main issue was designing a point system which we will use to rank our users. We have an idea on what we want, but it is subject to change later if we face problems. 
 
-## milestone-2
+## Milestone-2
 Link to our Milestone 2 page found [here](https://github.com/Study-ext/study-ext/projects/3?add_cards_query=is%3Aopen). 
 
 
