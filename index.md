@@ -45,6 +45,7 @@ Users are able to create a study session. Each session requires a name, subject,
 <img src="doc/createSessionPage.png">
 
 #### Leaderboard Page
+The leaderboard page shows the current rankings for students and mentors based off of points they have accumulated from attending study sessions. 
 <img src="doc/leaderboardPage.png">
 
 #### Profile Page
