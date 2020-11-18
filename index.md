@@ -45,6 +45,7 @@ Users are able to create a study session. Each session requires a name, subject,
 <img src="doc/createSessionPage.png">
 
 #### Leaderboard Page
+<img src="doc/leaderboardPage.png">
 
 #### Profile Page
 Profile page displays information about yourself, included is a headshot, name, role, rank, class, and bio. The headshot is visible to others so it is easier to recognize who are attending study sessions. The other information is to help others get to know you. 
