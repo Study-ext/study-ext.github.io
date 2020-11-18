@@ -55,6 +55,7 @@ Profile page displays information about yourself, included is a headshot, name, 
 #### Quick Start Guide
 This page is opened up to any new user, ones who have just registered. Explains to the user the different aspects of the site and how to use it. 
 <img src="doc/quickStart1.PNG">
+<img src="doc/quickStart2.PNG">
 
 ## Milestone-1
 Link to our Milestone 1 page found [here](https://github.com/Study-ext/study-ext/projects/1). 
