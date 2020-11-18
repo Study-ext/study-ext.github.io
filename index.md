@@ -50,6 +50,10 @@ Users are able to create a study session. Each session requires a name, subject,
 Profile page displays information about yourself, included is a headshot, name, role, rank, class, and bio. The headshot is visible to others so it is easier to recognize who are attending study sessions. The other information is to help others get to know you. 
 <img src="doc/profilePage.png">
 
+#### Quick Start Guide
+This page is opened up to any new user, ones who have just registered. Explains to the user the different aspects of the site and how to use it. 
+<img src="doc/quickStart1.PNG">
+
 ## Milestone-1
 Link to our Milestone 1 page found [here](https://github.com/Study-ext/study-ext/projects/1). 
 
