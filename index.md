@@ -5,6 +5,7 @@
 * [Page Mockups](#page-mockups)
 * [Milestone 1](#milestone-1)
 * [Milestone 2](#milestone-2)
+* [Finished Pages](#Finished-Pages)
 
 ## [study-ext Site](http://198.211.97.187/#/)
 
@@ -67,4 +68,7 @@ Our overall goals for milestone 1 was to create a rough outline of what we want 
 ## Milestone-2
 Link to our Milestone 2 page found [here](https://github.com/Study-ext/study-ext/projects/3?add_cards_query=is%3Aopen). 
 
+## Finished Pages
 
+### Landing Page
+<img src="doc/landing-page.png">
