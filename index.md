@@ -69,6 +69,7 @@ Our overall goals for milestone 1 was to create a rough outline of what we want 
 Link to our Milestone 2 page found [here](https://github.com/Study-ext/study-ext/projects/3?add_cards_query=is%3Aopen). 
 
 ## Finalized Pages
+Screenshots of finalized pages created from our mockups. 
 
 ### Landing Page
 <img src="doc/landing-page.png">
