@@ -72,4 +72,4 @@ Link to our Milestone 2 page found [here](https://github.com/Study-ext/study-ext
 Screenshots of finalized pages created from our mockups. 
 
 ### Landing Page
-[<img src="doc/landing-page.png">](http://198.211.97.187/#/)
+[<img src="doc/landing-page.png">](https://study-ext.xyz)
