@@ -1,55 +1,28 @@
 ## Table of contents
 
 * [Overview](#overview)
-* [Page Mockups](#page-mockups)
-* [Milestone 1](#milestone-1)
+* [Deployment](#deployment)
+* [User Guide](#user-guide)
 * [Milestone 2](#milestone-2)
 * [Finalized Pages](#Finalized-Pages)
 * [Team Members](#team-members)
 
-## [study-ext Site](https://study-ext.xyz)
-
 ## Overview
 The overall goal for our project is to create an interface which allows for students and classmates to be able to create effective collaborative interactions where students can obtain help on current ICS materials or help others. Another goal is to create an environment that is inviting and effective for students who would instead be struggling on their own, so they can receive assistance from other like minded students who are able to help. 
 
-## Page Mockups
+## Deployment
 
-#### Landing Page
-Page shown when first accessing the website. Gives short description of study-ext and prompts user to Sign In or Sign Up. Does not show any info on meeting sessions yet to preserve privacy. 
-<img src="doc/landingPage.png">
+A live deployment of BowFolios is available at https://study-ext.xyz](https://study-ext.xyz).
 
-#### Registration Page
-Register an account for study-ext using UH email and password. 
-<img src="doc/registerPage.png">
+## User Guide
 
-#### Sign In Page
-Sign in to your account using UH email and password. 
-<img src="doc/signInPage.png">
+This section provides a walkthrough of the study-ext user interface and its capabilities.
 
-#### User Home Page
-Displays a navigation bar containing tabs for the Calendar, Leaderboard, Create Session page, and for account notifications and profile. The homepage contains interactable visuals containing information about ongoing sessions and upcoming sessions to join, along with a “Quick Help” section where users can request for quick help sessions from available mentors. On the left of the page, it shows a leaderboard of the current top 10 mentors. 
-<img src="doc/userHomePage.png">
+### Landing Page
 
-#### Calender Page
-Shows a interactable calendar containing all the upcoming created sessions and their details. As a user you are able to see the other attendees and mentor of study sessions and join the sessions to let others know you will be there. 
-<img src="doc/calendarPage.png">
+The landing page is presented to users when they visit the top-level URL to the site.
 
-#### Create Session Page
-Users are able to create a study session. Each session requires a name, subject, added info, time and date. These sessions can range from reviewing for midterms to help on specific topics in ICS courses. 
-<img src="doc/createSessionPage.png">
-
-#### Leaderboard Page
-The leaderboard page shows the current rankings for students and mentors based off of points they have accumulated from attending study sessions. 
-<img src="doc/leaderboardPage.png">
-
-#### Profile Page
-Profile page displays information about yourself, included is a headshot, name, role, rank, class, and bio. The headshot is visible to others so it is easier to recognize who are attending study sessions. The other information is to help others get to know you. 
-<img src="doc/profilePage.png">
-
-#### Quick Start Guide
-This page is opened up to any new user, ones who have just registered. Explains to the user the different aspects of the site and how to use it. 
-<img src="doc/quickStart1.PNG">
-<img src="doc/quickStart2.PNG">
+![](images/landing-page.png)
 
 ## Milestone-1
 Link to our Milestone 1 page found [here](https://github.com/Study-ext/study-ext/projects/1). 
