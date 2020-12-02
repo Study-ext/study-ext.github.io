@@ -46,7 +46,41 @@ You can click the calender tab to see all the study sessions that are coming up 
 
 (picture goes here)
 
-###
+### Leaderboard
+
+Here you will be able to see how you stack up against others so give alittle more insetive to go to these study sessions and learn:
+
+(picture goes here)
+
+### Create Session
+
+Here you will be able to make sessions for people to come to you for help or gain help:
+
+(picture goes here)
+
+## Developer Guide
+
+This section provides information of interest to Meteor developers wishing to use this code base as a basis for their own development tasks.
+
+### Installation
+
+First, [install Meteor](https://www.meteor.com/install).
+
+Second, visit the [study-ext application github page](https://github.com/study-ext/study-ext), and click the "Use this template" button to create your own repository initialized with a copy of this application to your local computer.
+
+Third, cd into the study-ext/app directory and install libraries with:
+
+```
+$ meteor npm install
+```
+
+Fourth, run the system with:
+
+```
+$ meteor npm run start
+```
+
+If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000).
 
 ## Milestone-1
 Link to our Milestone 1 page found [here](https://github.com/Study-ext/study-ext/projects/1). 
