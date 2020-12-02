@@ -57,7 +57,7 @@ You can click the calender tab to see all the study sessions that are coming up 
 
 Here you will be able to see how you stack up against others so give alittle more insetive to go to these study sessions and learn:
 
-<img src="doc/leaderboard-outline.png">
+<img src="doc/leaderboard-outline.PNG">
 
 ### Create Session
 
