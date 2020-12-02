@@ -34,6 +34,19 @@ Alternatively, you can select "Sign up" to go to the following page and register
 
 <img src="doc/sign-up.png">
 
+### Home page
+
+After logging in, you are taken to the home page, which presents you with instructions on how our application works:
+
+(picture goes here)
+
+### Calender
+
+You can click the calender tab to see all the study sessions that are coming up so you can plan to go to them:
+
+(picture goes here)
+
+###
 
 ## Milestone-1
 Link to our Milestone 1 page found [here](https://github.com/Study-ext/study-ext/projects/1). 
