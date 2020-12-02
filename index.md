@@ -37,7 +37,7 @@ Alternatively, you can select "Sign up" to go to the following page and register
 
 ### Home page
 
-After logging in, you are taken to the home page, which presents you with instructions on how our application works:
+After logging in, you are taken to the home page, where you can join sessions and even request for quick help:
 
 <img src="doc/home-page.png">
 
