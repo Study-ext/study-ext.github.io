@@ -22,7 +22,7 @@ This section provides a walkthrough of the study-ext user interface and its capa
 
 The landing page is presented to users when they visit the top-level URL to the site.
 
-![](images/landing-page.png)
+[<img src="doc/landing-page.png">]
 
 ## Milestone-1
 Link to our Milestone 1 page found [here](https://github.com/Study-ext/study-ext/projects/1). 
