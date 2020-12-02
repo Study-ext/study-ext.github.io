@@ -39,7 +39,7 @@ Alternatively, you can select "Sign up" to go to the following page and register
 
 After logging in, you are taken to the home page, which presents you with instructions on how our application works:
 
-(picture goes here)
+<img src="doc/home-page.png">
 
 ### Calender
 
