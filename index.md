@@ -3,8 +3,8 @@
 * [Overview](#overview)
 * [Deployment](#deployment)
 * [User Guide](#user-guide)
+* [Milestone 1](#milestone-1)
 * [Milestone 2](#milestone-2)
-* [Finalized Pages](#Finalized-Pages)
 * [Team Members](#team-members)
 
 ## Overview
