@@ -45,7 +45,7 @@ After logging in, you are taken to the home page, where you can join sessions an
 
 You can create a profile by clicking on the Profile tab, where you can enter basic information about yourself as well as a headshot. Users may also clarify which classes they have already taken and which classes they are currently taking. When profile is submitted, an option to edit will appear.
 
-<ims src="doc/createProfilePage.png">
+<img src="doc/createProfilePage.png">
 
 ### Calender
 
