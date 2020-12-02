@@ -51,7 +51,7 @@ You can create a profile by clicking on the Profile tab, where you can enter bas
 
 You can click the calender tab to see all the study sessions that are coming up so you can plan to go to them:
 
-<img src="doc/calendar.png">
+<img src="doc/updated-calendar-page.png">
 
 ### Leaderboard
 
