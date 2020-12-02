@@ -24,6 +24,17 @@ The landing page is presented to users when they visit the top-level URL to the 
 
 <img src="doc/domain.png">
 
+### Sign in and sign up
+
+Click on the "Login" button in the upper right corner of the navbar, then select "Sign in" to go to the following page and login. You must have been previously registered with the system to use this option:
+
+![](images/signin-page.png)
+
+Alternatively, you can select "Sign up" to go to the following page and register as a new user:
+
+![](images/signup-page.png)
+
+
 ## Milestone-1
 Link to our Milestone 1 page found [here](https://github.com/Study-ext/study-ext/projects/1). 
 
