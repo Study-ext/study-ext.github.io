@@ -45,7 +45,7 @@ After logging in, you are taken to the home page, where you can join sessions an
 
 You can click the calender tab to see all the study sessions that are coming up so you can plan to go to them:
 
-(picture goes here)
+<img src="doc/calendar.png">
 
 ### Leaderboard
 
