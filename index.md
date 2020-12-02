@@ -12,7 +12,7 @@ The overall goal for our project is to create an interface which allows for stud
 
 ## Deployment
 
-A live deployment of BowFolios is available at https://study-ext.xyz](https://study-ext.xyz).
+A live deployment of BowFolios is available at [https://study-ext.xyz](https://study-ext.xyz).
 
 ## User Guide
 
