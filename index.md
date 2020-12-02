@@ -57,7 +57,7 @@ Here you will be able to see how you stack up against others so give alittle mor
 
 Here you will be able to make sessions for people to come to you for help or gain help:
 
-<img src="doc/createSession_01.PNG">
+<img src="doc/createSessionPage_01.PNG">
 
 ## Developer Guide
 
