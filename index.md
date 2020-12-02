@@ -41,6 +41,12 @@ After logging in, you are taken to the home page, where you can join sessions an
 
 <img src="doc/home-page.png">
 
+### Create Profile Page
+
+You can create a profile by clicking on the Profile tab, where you can enter basic information about yourself as well as a headshot. Users may also clarify which classes they have already taken and which classes they are currently taking. When profile is submitted, an option to edit will appear.
+
+<ims src="doc/createProfilePage.png">
+
 ### Calender
 
 You can click the calender tab to see all the study sessions that are coming up so you can plan to go to them:
