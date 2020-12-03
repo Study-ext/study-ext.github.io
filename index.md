@@ -35,17 +35,21 @@ Alternatively, you can select "Sign up" to go to the following page and register
 
 <img src="doc/sign-up.png">
 
+### Create Profile Page
+
+After registering a new account, you can will be redirected to a page to create a profile. You must enter your name, and provide a headshot photo. You will additionally have the options to select classes you are currently taking and classes you have already taken (and willing to be a mentor for). When you successfully submit your profile details, you will be redirected to a quick start page to help guide you through the website. 
+
+<img src="doc/createProfilePage.png">
+
 ### Home page
 
 After logging in, you are taken to the home page, where you can join sessions and even request for quick help:
 
 <img src="doc/home-page.png">
 
-### Create Profile Page
+### Profile page
 
-You can create a profile by clicking on the Profile tab, where you can enter basic information about yourself as well as a headshot. Users may also clarify which classes they have already taken and which classes they are currently taking. When profile is submitted, an option to edit will appear.
-
-<img src="doc/createProfilePage.png">
+In the upper right hand corner, you'll see your username with an icon. This is a dropdown menu and when you click it, you'll see two options: "Profile" and "Sign out". Clicking on "Profile" will take you to your own user profile, where you also have the option to edit your information.
 
 ### Calender
 
