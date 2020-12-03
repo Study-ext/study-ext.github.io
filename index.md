@@ -37,9 +37,13 @@ Alternatively, you can select "Sign up" to go to the following page and register
 
 ### Create Profile Page
 
-After registering a new account, you can will be redirected to a page to create a profile. You must enter your name, and provide a headshot photo. You will additionally have the options to select classes you are currently taking and classes you have already taken (and willing to be a mentor for). When you successfully submit your profile details, you will be redirected to a quick start page to help guide you through the website. 
+After registering a new account, you can will be redirected to a page to create a profile. You must enter your name, and provide a headshot photo. You will additionally have the options to select classes you are currently taking and classes you have already taken (and willing to be a mentor for). 
 
 <img src="doc/createProfilePage.png">
+
+When you successfully submit your profile details, you will be redirected to a quick start page to help guide you through the website.
+
+<img src="doc/createProfileSuccess.png">
 
 ### Home page
 
