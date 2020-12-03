@@ -55,6 +55,8 @@ After logging in, you are taken to the home page, where you can join sessions an
 
 In the upper right hand corner, you'll see your username with an icon. This is a dropdown menu and when you click it, you'll see two options: "Profile" and "Sign out". Clicking on "Profile" will take you to your own user profile, where you also have the option to edit your information.
 
+<img src="doc/profilePage2.png">
+
 ### Calender
 
 You can click the calender tab to see all the study sessions that are coming up so you can plan to go to them:
