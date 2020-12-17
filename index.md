@@ -75,6 +75,12 @@ Here you will be able to make sessions for people to come to you for help or gai
 
 <img src="doc/createSessionPage_01.PNG">
 
+### Classes
+
+Here, you can see all of the students that are currently taking the class and students that have already taken the class.
+
+<img src="doc/classes-page.PNG">
+
 ### Admin View All Users
 
 Here on the admin side we are able to see everything about the user. This will also show us what classes they have taken by hovering the button:
