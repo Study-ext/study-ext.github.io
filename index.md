@@ -49,7 +49,7 @@ When you successfully submit your profile details, you will be redirected to a q
 
 After logging in, you are taken to the home page, where you can join sessions and even request for quick help:
 
-<img src="doc/home-page.png">
+<img src="doc/updated-home-page.png">
 
 ### Profile page
 
@@ -74,6 +74,18 @@ Here you will be able to see how you stack up against others. You get more point
 Here you will be able to make sessions for people to come to you for help or gain help:
 
 <img src="doc/createSessionPage_01.PNG">
+
+### Admin View All Users
+
+Here on the admin side we are able to see everything about the user. This will also show us what classes they have taken by hovering the button!
+
+<img src="doc/Admin-list.PNG">
+
+### Admin View All Sessions
+
+Here on the admin side we are able to see all thes sessions. Here we are givin all the information to go with the session so we know what is going on.
+
+<img src="doc/Admin-sessions.PNG">
 
 ## Developer Guide
 
