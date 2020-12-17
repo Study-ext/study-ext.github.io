@@ -6,7 +6,6 @@
 * [Developer Guide](#developer-guide)
 * [Milestone 1](#milestone-1)
 * [Milestone 2](#milestone-2)
-* [Milestone 3](#milestone-3)
 * [Team Members](#team-members)
 
 ## Overview
@@ -142,6 +141,12 @@ Diwen Lin, Systems Track Electrical Engineer
 
 Kelly Ngo, Systems Track Eletrical Engineer
 > I like the overall aesthetic of the website. It looks professional, and trust-worthy. I think website is kind of empty, and does not paint a clear picture to what the website is. The home page does not explain what the website is supposed to be, or the information on the website includes different types of things, such as a table in Leaderboard, as well as a schedule in Calendar. The "Classes" Table (4th column in Directory) does not work, and I cannot backtrack to original website. So this looks like a bug.
+
+Ryan Kim, Liberal Arts
+>  This website is very neat and organized and it is very easy to navigate around. I like how the point system gives students a drive to do more of these sessions that are beneficial to them, not only that you can also see the profiles of the other students almost like a social media platform but for group study sessions. I did not run into many bugs but the one bug that I did run into was when sometimes when I would try and click "Create Session" or "Classes" it would not take me to the page but instead make the site go blank and it would just be the sea foam green color of the main page.
+
+Matthew Stankiewicz, Liberal Arts/Business
+> Creating a session inputs details into the calendar properly. The leaderboards seem to be working properly, all the numbers are listed in the correct order. The one issue with the site is the classes tab. Clicking on the tab gives you a blank screen and clicking on any other tab afterwards will also give you a blank screen. The only way to reset this is by refreshing the page.
 
 ## Milestone-1
 Link to our Milestone 1 page found [here](https://github.com/Study-ext/study-ext/projects/1). 
