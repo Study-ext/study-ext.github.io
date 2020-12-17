@@ -55,7 +55,7 @@ After logging in, you are taken to the home page, where you are able to see the 
 
 In the upper right hand corner, you'll see your username with an icon. This is a dropdown menu and when you click it, you'll see two options: "Profile" and "Sign out". Clicking on "Profile" will take you to your own user profile, where you also have the option to edit your information.
 
-<img src="doc/profilePage2.png">
+<img src="doc/userProfilePage.png">
 
 ### Calender
 
