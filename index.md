@@ -85,7 +85,7 @@ Here on the admin side we are able to see everything about the user. This will a
 
 Here on the admin side we are able to see all thes sessions. Here we are givin all the information to go with the session so we know what is going on:
 
-<img src="doc/Admin-sessions.png">
+<img src="doc/updated-admin-sessions.png">
 
 ## Developer Guide
 
