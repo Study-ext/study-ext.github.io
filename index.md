@@ -47,7 +47,7 @@ When you successfully submit your profile details, you will be redirected to a q
 
 ### Home page
 
-After logging in, you are taken to the home page, where you can join sessions and even request for quick help:
+After logging in, you are taken to the home page, where you are able to see the sessions that are going on today and also upcoming events that are not scheduled for today. The button below the event will give you more information if it is not all shown. The quick help will direct you to the create session page where you are able to create a session for right now to get help.:
 
 <img src="doc/updated-home-page.png">
 
