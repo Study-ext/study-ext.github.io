@@ -117,6 +117,14 @@ $ meteor npm run start
 
 If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000).
 
+## Feedback
+
+Rhea Chung, Business
+
+> Overall, Study-ext is a simple yet very useful site for students in need of studying. It is easy to figure out when there are sessions using the calendar page and it is also quite easy to create sessions of your own. One thing, I would like to see in the future is the ability to click on the sessions on the calendar to see the information for that session. Other than that, Study-ext is a great website for students to get to know each other and study.
+
+
+
 ## Milestone-1
 Link to our Milestone 1 page found [here](https://github.com/Study-ext/study-ext/projects/1). 
 
