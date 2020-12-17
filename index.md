@@ -148,6 +148,9 @@ Ryan Kim, Liberal Arts
 Matthew Stankiewicz, Liberal Arts/Business
 > Creating a session inputs details into the calendar properly. The leaderboards seem to be working properly, all the numbers are listed in the correct order. The one issue with the site is the classes tab. Clicking on the tab gives you a blank screen and clicking on any other tab afterwards will also give you a blank screen. The only way to reset this is by refreshing the page.
 
+Keenan Lee, Computer Engineer
+> The website is very clean looking. The implementation of the calendar is good, and the landing page is practical. There several bugs in the website like the class tab not working, and the classes taken in profile creation.
+
 ## Milestone-1
 Link to our Milestone 1 page found [here](https://github.com/Study-ext/study-ext/projects/1). 
 
