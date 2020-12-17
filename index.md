@@ -79,13 +79,13 @@ Here you will be able to make sessions for people to come to you for help or gai
 
 Here on the admin side we are able to see everything about the user. This will also show us what classes they have taken by hovering the button!
 
-<img src="doc/Admin-list.PNG">
+<img src="doc/Admin-list.png">
 
 ### Admin View All Sessions
 
 Here on the admin side we are able to see all thes sessions. Here we are givin all the information to go with the session so we know what is going on.
 
-<img src="doc/Admin-sessions.PNG">
+<img src="doc/Admin-sessions.png">
 
 ## Developer Guide
 
