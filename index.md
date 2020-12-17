@@ -65,9 +65,9 @@ You can click the calender tab to see all the study sessions that are coming up 
 
 ### Leaderboard
 
-Here you will be able to see how you stack up against others so give alittle more insetive to go to these study sessions and learn:
+Here you will be able to see how you stack up against others. You get more points from your peers. It will give a little more insentive to go to these study sessions and learn:
 
-<img src="doc/leaderboard-outline.PNG">
+<img src="doc/leaderboard.PNG">
 
 ### Create Session
 
